@@ -32,10 +32,12 @@ const Ul = styled.ul`
 
 const Items = ({open}) => {
     return (
+      <nav>
         <Ul open={open}>
-            <li>Home</li>
-            <li>Pokemon List</li>
+            <li><Link to="/">Home</Link></li>
+            <li><Link to="/pokemonlist">Pokemons</Link></li>
         </Ul>
+      </nav>
     )
 }
 
