@@ -1,0 +1,8 @@
+export const GET_POKEMONS = 'GET_POKEMONS';
+export const POKEMONS_ERROR = 'POKEMONS_ERROR';
+
+export const GET_POKEMON_BY_NAME = 'GET_POKEMON_BY_NAME';
+export const POKEMON_ERROR = 'POKEMON_ERROR';
+
+export const SET_POKEMON = 'GET_POKEMON_BY_NAME';
+export const SET_POKEMON_ERROR = 'POKEMON_ERROR';
