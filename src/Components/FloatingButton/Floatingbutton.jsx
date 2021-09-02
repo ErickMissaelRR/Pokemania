@@ -25,7 +25,7 @@ const Floatingbutton = () => {
                     size="3rem"
                 />
                 <ChildButton
-                    icon={<MdAdd style={{ fontSize: 25 }}
+                    icon={<MdAdd style={{ fontSize: 25 }} />}
                     iconColor="black"
                     background="white"
                     size="2rem"
